@@ -2,7 +2,7 @@
 
 This is an article on how to setup WiFi of Ubuntu20.04 server on Raspberry Pi 4.
 
-You can read it here: Norm.md
+You can read it here: WiFiRPiUbuntu.md
 
 It's also posted on medium.com:
 
